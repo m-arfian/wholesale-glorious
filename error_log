@@ -1,0 +1,172 @@
+[04-Mar-2014 22:00:56 Asia/Jakarta] PHP Fatal error:  Call to undefined method MyFormatter::formatLinkProduk() in /home/jayagros/public_html/dev/protected/views/layouts/_katalog_tree.php on line 17
+[04-Mar-2014 22:05:31 Asia/Jakarta] PHP Fatal error:  Call to undefined method MyFormatter::formatLinkProduk() in /home/jayagros/public_html/dev/protected/views/layouts/_katalog_tree.php on line 17
+[04-Mar-2014 22:18:34 Asia/Jakarta] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/jayagros/public_html/dev/framework/logging/CLogger.php on line 96
+[04-Mar-2014 22:18:34 Asia/Jakarta] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/jayagros/public_html/dev/framework/YiiBase.php on line 0
+[04-Mar-2014 22:19:14 Asia/Jakarta] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/jayagros/public_html/dev/framework/YiiBase.php on line 470
+[05-Mar-2014 07:18:31 Asia/Jakarta] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/jayagros/public_html/dev/framework/YiiBase.php on line 0
+[05-Mar-2014 07:20:00 Asia/Jakarta] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/jayagros/public_html/dev/framework/db/CDbCommand.php on line 508
+[05-Mar-2014 07:20:00 Asia/Jakarta] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/jayagros/public_html/dev/framework/db/CDbCommand.php on line 508
+[05-Mar-2014 07:20:43 Asia/Jakarta] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/jayagros/public_html/dev/framework/YiiBase.php on line 470
+[05-Mar-2014 07:25:20 Asia/Jakarta] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/jayagros/public_html/dev/framework/YiiBase.php on line 470
+[05-Mar-2014 07:25:58 Asia/Jakarta] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/jayagros/public_html/dev/framework/YiiBase.php on line 476
+[05-Mar-2014 07:30:18 Asia/Jakarta] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/jayagros/public_html/dev/framework/YiiBase.php on line 470
+[05-Mar-2014 07:36:31 Asia/Jakarta] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/jayagros/public_html/dev/framework/YiiBase.php on line 470
+[05-Mar-2014 16:39:16 Asia/Jakarta] PHP Parse error:  syntax error, unexpected end of file in /home/jayagros/public_html/dev/themes/olsonkart/views/layouts/main.php on line 174
+[05-Mar-2014 16:39:56 Asia/Jakarta] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/jayagros/public_html/dev/framework/db/ar/CActiveRecord.php on line 1514
+[05-Mar-2014 22:06:49 Asia/Jakarta] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/jayagros/public_html/dev/framework/YiiBase.php on line 470
+[05-Mar-2014 22:21:15 Asia/Jakarta] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/jayagros/public_html/dev/framework/YiiBase.php on line 470
+[05-Mar-2014 22:32:12 Asia/Jakarta] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/jayagros/public_html/dev/framework/YiiBase.php on line 0
+[06-Mar-2014 16:14:03 Asia/Jakarta] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/jayagros/public_html/dev/framework/YiiBase.php on line 472
+[06-Mar-2014 16:24:34 Asia/Jakarta] PHP Fatal error:  Undefined class constant 'NO_IMAGE_SMALL' in /home/jayagros/public_html/dev/protected/modules/pelanggan/controllers/DefaultController.php on line 108
+[06-Mar-2014 16:25:30 Asia/Jakarta] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/jayagros/public_html/dev/framework/db/CDbCommand.php on line 508
+[06-Mar-2014 16:34:17 Asia/Jakarta] PHP Warning:  Unterminated comment starting line 2195 in /home/jayagros/public_html/dev/protected/extensions/YiiMailer/PHPMailer/class.phpmailer.php on line 2195
+[06-Mar-2014 16:34:17 Asia/Jakarta] PHP Parse error:  syntax error, unexpected end of file, expecting function (T_FUNCTION) in /home/jayagros/public_html/dev/protected/extensions/YiiMailer/PHPMailer/class.phpmailer.php on line 2202
+[06-Mar-2014 16:38:59 Asia/Jakarta] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/jayagros/public_html/dev/framework/db/CDbCommand.php on line 508
+[06-Mar-2014 16:40:03 Asia/Jakarta] PHP Warning:  Unterminated comment starting line 2195 in /home/jayagros/public_html/dev/protected/extensions/YiiMailer/PHPMailer/class.phpmailer.php on line 2195
+[06-Mar-2014 16:40:03 Asia/Jakarta] PHP Parse error:  syntax error, unexpected end of file, expecting function (T_FUNCTION) in /home/jayagros/public_html/dev/protected/extensions/YiiMailer/PHPMailer/class.phpmailer.php on line 2202
+[06-Mar-2014 16:47:11 Asia/Jakarta] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/jayagros/public_html/dev/framework/YiiBase.php on line 470
+[06-Mar-2014 16:48:51 Asia/Jakarta] PHP Fatal error:  Call to undefined method YiiMailer::ClearAddresses() in /home/jayagros/public_html/dev/protected/extensions/YiiMailer/YiiMailer.php on line 292
+[06-Mar-2014 17:22:49 Asia/Jakarta] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/jayagros/public_html/dev/framework/logging/CLogger.php on line 341
+[06-Mar-2014 17:26:08 Asia/Jakarta] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/jayagros/public_html/dev/framework/db/CDbCommand.php on line 211
+[06-Mar-2014 17:27:18 Asia/Jakarta] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/jayagros/public_html/dev/framework/db/CDbCommand.php on line 508
+[06-Mar-2014 18:46:10 Asia/Jakarta] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/jayagros/public_html/dev/framework/db/CDbCommand.php on line 508
+[06-Mar-2014 18:47:16 Asia/Jakarta] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/jayagros/public_html/dev/framework/db/CDbCommand.php on line 508
+[06-Mar-2014 19:10:04 Asia/Jakarta] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/jayagros/public_html/dev/framework/db/CDbCommand.php on line 508
+[06-Mar-2014 20:38:55 Asia/Jakarta] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/jayagros/public_html/dev/framework/db/CDbCommand.php on line 508
+[06-Mar-2014 22:11:51 Asia/Jakarta] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/jayagros/public_html/dev/framework/db/CDbCommand.php on line 528
+[06-Mar-2014 23:27:36 Asia/Jakarta] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/jayagros/public_html/dev/framework/db/CDbCommand.php on line 508
+[06-Mar-2014 23:46:25 Asia/Jakarta] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/jayagros/public_html/dev/framework/db/CDbCommand.php on line 508
+[07-Mar-2014 06:53:22 Asia/Jakarta] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/jayagros/public_html/dev/framework/db/ar/CActiveRecord.php on line 408
+[07-Mar-2014 07:03:48 Asia/Jakarta] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/jayagros/public_html/dev/protected/models/Barang.php on line 43
+[07-Mar-2014 14:08:47 Asia/Jakarta] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/jayagros/public_html/dev/framework/db/ar/CActiveRecord.php on line 0
+[07-Mar-2014 14:12:09 Asia/Jakarta] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/jayagros/public_html/dev/framework/db/CDbCommand.php on line 508
+[07-Mar-2014 17:06:41 Asia/Jakarta] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/jayagros/public_html/dev/framework/db/CDbCommand.php on line 508
+[07-Mar-2014 17:44:34 Asia/Jakarta] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/jayagros/public_html/dev/framework/db/schema/CDbCommandBuilder.php on line 674
+[07-Mar-2014 17:45:09 Asia/Jakarta] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/jayagros/public_html/dev/framework/db/CDbCommand.php on line 508
+[07-Mar-2014 18:20:42 Asia/Jakarta] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/jayagros/public_html/dev/framework/db/CDbCommand.php on line 508
+[07-Mar-2014 20:20:34 Asia/Jakarta] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/jayagros/public_html/dev/framework/db/CDbCommand.php on line 519
+[07-Mar-2014 20:42:03 Asia/Jakarta] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/jayagros/public_html/dev/framework/db/schema/CDbCommandBuilder.php on line 582
+[07-Mar-2014 20:45:37 Asia/Jakarta] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/jayagros/public_html/dev/framework/db/schema/CDbCommandBuilder.php on line 563
+[07-Mar-2014 21:13:39 Asia/Jakarta] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/jayagros/public_html/dev/framework/db/CDbCommand.php on line 207
+[07-Mar-2014 21:15:19 Asia/Jakarta] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/jayagros/public_html/dev/framework/db/CDbCommand.php on line 508
+[07-Mar-2014 21:19:30 Asia/Jakarta] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/jayagros/public_html/dev/framework/db/CDbCommand.php on line 508
+[07-Mar-2014 21:31:32 Asia/Jakarta] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/jayagros/public_html/dev/framework/db/CDbConnection.php on line 606
+[08-Mar-2014 00:52:15 Asia/Jakarta] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/jayagros/public_html/dev/framework/db/schema/CDbCommandBuilder.php on line 511
+[08-Mar-2014 00:53:58 Asia/Jakarta] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/jayagros/public_html/dev/framework/db/CDbConnection.php on line 467
+[08-Mar-2014 01:03:13 Asia/Jakarta] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/jayagros/public_html/dev/framework/db/ar/CActiveRecord.php on line 327
+[08-Mar-2014 01:08:13 Asia/Jakarta] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/jayagros/public_html/dev/protected/models/Barang.php on line 236
+[08-Mar-2014 01:09:53 Asia/Jakarta] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/jayagros/public_html/dev/framework/db/CDbCommand.php on line 481
+[08-Mar-2014 01:10:19 Asia/Jakarta] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/jayagros/public_html/dev/framework/db/CDbCommand.php on line 284
+[08-Mar-2014 01:11:15 Asia/Jakarta] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/jayagros/public_html/dev/framework/db/CDbCommand.php on line 433
+[08-Mar-2014 01:42:58 Asia/Jakarta] PHP Fatal error:  Undefined class constant 'ACCOUNT_MINLENGTH' in /home/jayagros/public_html/dev/protected/modules/pelanggan/views/default/daftar.php on line 211
+[08-Mar-2014 01:43:24 Asia/Jakarta] PHP Fatal error:  Undefined class constant 'ACCOUNT_MINLENGTH' in /home/jayagros/public_html/dev/protected/modules/pelanggan/views/default/daftar.php on line 211
+[08-Mar-2014 01:43:53 Asia/Jakarta] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/jayagros/public_html/dev/framework/db/CDbCommand.php on line 519
+[08-Mar-2014 01:43:59 Asia/Jakarta] PHP Fatal error:  Undefined class constant 'ACCOUNT_MINLENGTH' in /home/jayagros/public_html/dev/protected/modules/pelanggan/views/default/daftar.php on line 211
+[08-Mar-2014 01:44:48 Asia/Jakarta] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/jayagros/public_html/dev/protected/models/Barang.php on line 284
+[08-Mar-2014 01:51:34 Asia/Jakarta] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/jayagros/public_html/dev/framework/db/CDbConnection.php on line 275
+[08-Mar-2014 01:53:03 Asia/Jakarta] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/jayagros/public_html/dev/framework/db/ar/CActiveRecord.php on line 413
+[08-Mar-2014 01:59:57 Asia/Jakarta] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/jayagros/public_html/dev/framework/db/ar/CActiveRecord.php on line 1428
+[08-Mar-2014 02:18:32 Asia/Jakarta] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/jayagros/public_html/dev/framework/db/CDbCommand.php on line 508
+[08-Mar-2014 02:20:03 Asia/Jakarta] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/jayagros/public_html/dev/framework/db/CDbCommand.php on line 508
+[08-Mar-2014 02:21:33 Asia/Jakarta] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/jayagros/public_html/dev/framework/db/schema/CDbCommandBuilder.php on line 685
+[08-Mar-2014 02:23:31 Asia/Jakarta] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/jayagros/public_html/dev/framework/db/CDbCommand.php on line 484
+[08-Mar-2014 02:46:22 Asia/Jakarta] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 8372 bytes) in /home/jayagros/public_html/dev/protected/components/SimpleImage.php on line 12
+[08-Mar-2014 02:48:00 Asia/Jakarta] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 8372 bytes) in /home/jayagros/public_html/dev/protected/components/SimpleImage.php on line 12
+[08-Mar-2014 10:53:26 Asia/Jakarta] PHP Fatal error:  Wrong parameters for Exception([string $exception [, long $code [, Exception $previous = NULL]]]) in /home/jayagros/public_html/dev/protected/modules/pelanggan/controllers/DefaultController.php on line 109
+[08-Mar-2014 10:59:50 Asia/Jakarta] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/jayagros/public_html/dev/framework/db/CDbCommand.php on line 508
+[08-Mar-2014 13:46:25 Asia/Jakarta] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/jayagros/public_html/dev/framework/db/ar/CActiveRecord.php on line 0
+[08-Mar-2014 14:07:26 Asia/Jakarta] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/jayagros/public_html/dev/framework/db/schema/CDbCommandBuilder.php on line 563
+[08-Mar-2014 14:31:07 Asia/Jakarta] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/jayagros/public_html/dev/framework/db/CDbCommand.php on line 508
+[08-Mar-2014 14:31:08 Asia/Jakarta] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/jayagros/public_html/dev/framework/db/CDbCommand.php on line 474
+[08-Mar-2014 15:15:46 Asia/Jakarta] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/jayagros/public_html/dev/framework/db/ar/CActiveRecord.php on line 1005
+[08-Mar-2014 15:15:46 Asia/Jakarta] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/jayagros/public_html/dev/framework/db/schema/CDbCommandBuilder.php on line 525
+[08-Mar-2014 15:22:17 Asia/Jakarta] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/jayagros/public_html/dev/protected/models/Barang.php on line 284
+[08-Mar-2014 15:22:20 Asia/Jakarta] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/jayagros/public_html/dev/framework/db/schema/CDbCommandBuilder.php on line 78
+[08-Mar-2014 15:23:43 Asia/Jakarta] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/jayagros/public_html/dev/framework/db/ar/CActiveRecord.php on line 327
+[08-Mar-2014 15:23:45 Asia/Jakarta] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/jayagros/public_html/dev/framework/db/CDbCommand.php on line 508
+[08-Mar-2014 15:27:04 Asia/Jakarta] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/jayagros/public_html/dev/framework/db/CDbCommand.php on line 185
+[08-Mar-2014 15:27:04 Asia/Jakarta] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/jayagros/public_html/dev/framework/db/CDbCommand.php on line 508
+[08-Mar-2014 15:28:32 Asia/Jakarta] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/jayagros/public_html/dev/framework/db/schema/CDbCommandBuilder.php on line 662
+[08-Mar-2014 15:28:33 Asia/Jakarta] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/jayagros/public_html/dev/framework/db/schema/CDbCommandBuilder.php on line 92
+[08-Mar-2014 15:30:05 Asia/Jakarta] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/jayagros/public_html/dev/framework/db/CDbCommand.php on line 271
+[08-Mar-2014 15:30:06 Asia/Jakarta] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/jayagros/public_html/dev/framework/db/CDbCommand.php on line 211
+[08-Mar-2014 15:31:20 Asia/Jakarta] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/jayagros/public_html/dev/framework/db/CDbCommand.php on line 100
+[08-Mar-2014 15:31:20 Asia/Jakarta] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/jayagros/public_html/dev/framework/db/CDbCommand.php on line 508
+[08-Mar-2014 15:34:14 Asia/Jakarta] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/jayagros/public_html/dev/framework/db/CDbCommand.php on line 488
+[08-Mar-2014 15:35:14 Asia/Jakarta] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/jayagros/public_html/dev/framework/db/CDbCommand.php on line 211
+[08-Mar-2014 15:36:59 Asia/Jakarta] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/jayagros/public_html/dev/protected/models/Barang.php on line 283
+[08-Mar-2014 15:46:30 Asia/Jakarta] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/jayagros/public_html/dev/framework/db/CDbCommand.php on line 508
+[08-Mar-2014 16:03:16 Asia/Jakarta] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/jayagros/public_html/dev/framework/db/CDbCommand.php on line 508
+[08-Mar-2014 16:04:12 Asia/Jakarta] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/jayagros/public_html/dev/framework/db/CDbCommand.php on line 508
+[08-Mar-2014 16:05:32 Asia/Jakarta] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/jayagros/public_html/dev/framework/db/CDbCommand.php on line 275
+[08-Mar-2014 16:07:00 Asia/Jakarta] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/jayagros/public_html/dev/framework/db/CDbCommand.php on line 508
+[08-Mar-2014 16:08:22 Asia/Jakarta] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/jayagros/public_html/dev/framework/db/ar/CActiveRecord.php on line 408
+[08-Mar-2014 16:09:23 Asia/Jakarta] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/jayagros/public_html/dev/framework/db/CDbCommand.php on line 207
+[08-Mar-2014 16:10:45 Asia/Jakarta] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/jayagros/public_html/dev/framework/db/CDbCommand.php on line 415
+[08-Mar-2014 16:13:48 Asia/Jakarta] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/jayagros/public_html/dev/framework/db/CDbCommand.php on line 508
+[08-Mar-2014 17:00:54 Asia/Jakarta] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/jayagros/public_html/dev/framework/db/schema/CDbCommandBuilder.php on line 563
+[08-Mar-2014 17:01:48 Asia/Jakarta] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/jayagros/public_html/dev/protected/models/Barang.php on line 283
+[08-Mar-2014 17:27:44 Asia/Jakarta] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/jayagros/public_html/dev/framework/db/CDbCommand.php on line 508
+[08-Mar-2014 17:29:39 Asia/Jakarta] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/jayagros/public_html/dev/framework/db/CDbCommand.php on line 431
+[08-Mar-2014 17:33:24 Asia/Jakarta] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/jayagros/public_html/dev/framework/db/CDbCommand.php on line 508
+[08-Mar-2014 17:34:19 Asia/Jakarta] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/jayagros/public_html/dev/framework/db/ar/CActiveRecord.php on line 1402
+[08-Mar-2014 17:35:17 Asia/Jakarta] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/jayagros/public_html/dev/framework/db/ar/CActiveRecord.php on line 327
+[08-Mar-2014 22:38:27 Asia/Jakarta] PHP Fatal error:  Call to undefined method MyFormatter::formatLinkProduk() in /home/jayagros/public_html/dev/protected/views/katalog/subkategori.php on line 5
+[08-Mar-2014 22:39:22 Asia/Jakarta] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/jayagros/public_html/dev/framework/db/CDbCommand.php on line 518
+[09-Mar-2014 08:19:52 Asia/Jakarta] PHP Fatal error:  Call to undefined method MyFormatter::alertError() in /home/jayagros/public_html/dev/protected/controllers/KonfirmasiController.php on line 28
+[09-Mar-2014 10:35:01 Asia/Jakarta] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/jayagros/public_html/dev/framework/YiiBase.php on line 452
+[09-Mar-2014 11:49:13 Asia/Jakarta] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/jayagros/public_html/dev/framework/base/CModule.php on line 283
+[10-Mar-2014 10:05:46 Asia/Jakarta] PHP Fatal error:  Call to undefined method Alert::danger() in /home/jayagros/public_html/dev/protected/modules/pelanggan/controllers/DefaultController.php on line 109
+[10-Mar-2014 23:16:33 Asia/Jakarta] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/jayagros/public_html/dev/framework/db/ar/CActiveRecord.php on line 0
+[11-Mar-2014 19:41:16 Asia/Jakarta] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/jayagros/public_html/dev/framework/db/CDbCommand.php on line 508
+[14-Mar-2014 20:38:41 Asia/Jakarta] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/jayagros/public_html/dev/framework/db/CDbCommand.php on line 508
+[15-Mar-2014 00:04:51 Asia/Jakarta] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/jayagros/public_html/dev/framework/db/schema/CDbCommandBuilder.php on line 537
+[15-Mar-2014 19:14:36 Asia/Jakarta] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/jayagros/public_html/dev/framework/db/schema/CDbCommandBuilder.php on line 98
+[15-Mar-2014 20:45:25 Asia/Jakarta] PHP Fatal error:  Undefined class constant 'REK_AKTIF' in /home/jayagros/public_html/dev/protected/controllers/PembayaranController.php on line 6
+[15-Mar-2014 22:08:04 Asia/Jakarta] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/jayagros/public_html/dev/framework/base/CModule.php on line 103
+[16-Mar-2014 19:06:06 Asia/Jakarta] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/jayagros/public_html/dev/framework/db/CDbCommand.php on line 508
+[16-Mar-2014 20:50:09 Asia/Jakarta] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/jayagros/public_html/dev/framework/db/schema/CDbCommandBuilder.php on line 697
+[16-Mar-2014 23:11:08 Asia/Jakarta] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/jayagros/public_html/dev/framework/db/CDbCommand.php on line 508
+[26-Mar-2014 05:50:27 UTC] PHP Fatal error:  Call to undefined function mysqli_connect() in /home/jayagros/public_html/dev/koneksi.php on line 2
+[26-Mar-2014 21:07:19 Asia/Jakarta] PHP Fatal error:  Undefined class constant 'NON_AKTIF' in /home/jayagros/public_html/dev/protected/modules/sim/views/gambar/_search.php on line 53
+[26-Mar-2014 21:07:29 Asia/Jakarta] PHP Fatal error:  Undefined class constant 'NON_AKTIF' in /home/jayagros/public_html/dev/protected/modules/sim/views/gambar/_search.php on line 53
+[26-Mar-2014 21:07:52 Asia/Jakarta] PHP Fatal error:  Undefined class constant 'NON_AKTIF' in /home/jayagros/public_html/dev/protected/modules/sim/views/gambar/_search.php on line 53
+[27-Mar-2014 16:06:06 Asia/Jakarta] PHP Fatal error:  Cannot use try without catch or finally in /home/jayagros/public_html/dev/protected/modules/sim/controllers/RekeningController.php on line 83
+[27-Mar-2014 16:52:29 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'view' (T_STRING), expecting ')' in /home/jayagros/public_html/dev/protected/modules/sim/controllers/RekeningController.php on line 105
+[27-Mar-2014 16:52:37 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'view' (T_STRING), expecting ')' in /home/jayagros/public_html/dev/protected/modules/sim/controllers/RekeningController.php on line 105
+[27-Mar-2014 16:53:41 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'view' (T_STRING), expecting ')' in /home/jayagros/public_html/dev/protected/modules/sim/controllers/RekeningController.php on line 105
+[27-Mar-2014 16:53:44 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'view' (T_STRING), expecting ')' in /home/jayagros/public_html/dev/protected/modules/sim/controllers/RekeningController.php on line 105
+[27-Mar-2014 20:32:49 Asia/Jakarta] PHP Fatal error:  Undefined class constant 'NON_AKTIF' in /home/jayagros/public_html/dev/protected/modules/sim/views/gambar/_search.php on line 53
+[29-Mar-2014 13:29:04 Asia/Jakarta] PHP Fatal error:  Undefined class constant 'REK_AKTIF' in /home/jayagros/public_html/dev/protected/models/Rekening.php on line 111
+[30-Mar-2014 12:43:34 Asia/Jakarta] PHP Fatal error:  Call to undefined method Exception::getRow() in /home/jayagros/public_html/dev/protected/modules/sim/controllers/BarangController.php on line 114
+[30-Mar-2014 12:55:46 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN), expecting function (T_FUNCTION) in /home/jayagros/public_html/dev/protected/models/Gambar.php on line 172
+[30-Mar-2014 15:26:40 Asia/Jakarta] PHP Fatal error:  Wrong parameters for Exception([string $exception [, long $code [, Exception $previous = NULL]]]) in /home/jayagros/public_html/dev/protected/modules/sim/controllers/BarangController.php on line 366
+[30-Mar-2014 19:08:25 Asia/Jakarta] PHP Fatal error:  Call to undefined method CHtml::checkButton() in /home/jayagros/public_html/dev/protected/modules/sim/views/barang/harga.php on line 192
+[30-Mar-2014 19:08:53 Asia/Jakarta] PHP Fatal error:  Call to undefined method CHtml::checkButton() in /home/jayagros/public_html/dev/protected/modules/sim/views/barang/harga.php on line 192
+[30-Mar-2014 20:31:22 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'endif' (T_ENDIF) in /home/jayagros/public_html/dev/protected/modules/sim/views/barang/harga.php on line 44
+[31-Mar-2014 08:09:23 Asia/Jakarta] PHP Fatal error:  Call to undefined method MyFormatter::formatLinkProduk() in /home/jayagros/public_html/dev/protected/views/layouts/_front_item.php on line 16
+[31-Mar-2014 08:09:38 Asia/Jakarta] PHP Fatal error:  Call to undefined method MyFormatter::formatLinkProduk() in /home/jayagros/public_html/dev/protected/views/layouts/_front_item.php on line 16
+[31-Mar-2014 08:09:50 Asia/Jakarta] PHP Fatal error:  Call to undefined method MyFormatter::formatLinkProduk() in /home/jayagros/public_html/dev/protected/views/layouts/_front_item.php on line 16
+[31-Mar-2014 08:09:57 Asia/Jakarta] PHP Fatal error:  Call to undefined method MyFormatter::formatLinkProduk() in /home/jayagros/public_html/dev/protected/views/layouts/_front_item.php on line 16
+[31-Mar-2014 09:00:29 Asia/Jakarta] PHP Fatal error:  Call to undefined method MyFormatter::formatLinkProduk() in /home/jayagros/public_html/dev/protected/views/layouts/_front_item.php on line 16
+[31-Mar-2014 09:02:36 Asia/Jakarta] PHP Fatal error:  Call to undefined method MyFormatter::formatLinkProduk() in /home/jayagros/public_html/dev/protected/views/layouts/_front_item.php on line 16
+[31-Mar-2014 09:02:40 Asia/Jakarta] PHP Fatal error:  Call to undefined method MyFormatter::formatLinkProduk() in /home/jayagros/public_html/dev/protected/views/layouts/_front_item.php on line 16
+[31-Mar-2014 09:38:58 Asia/Jakarta] PHP Fatal error:  Call to undefined method MyFormatter::formatLinkProduk() in /home/jayagros/public_html/dev/protected/modules/pelanggan/views/keranjang/_keranjang.php on line 25
+[31-Mar-2014 11:25:48 Asia/Jakarta] PHP Fatal error:  Undefined class constant 'REK_AKTIF' in /home/jayagros/public_html/dev/protected/models/Rekening.php on line 111
+[31-Mar-2014 11:27:43 Asia/Jakarta] PHP Fatal error:  Undefined class constant 'REK_AKTIF' in /home/jayagros/public_html/dev/protected/models/Rekening.php on line 111
+[31-Mar-2014 11:29:31 Asia/Jakarta] PHP Fatal error:  Undefined class constant 'REK_AKTIF' in /home/jayagros/public_html/dev/protected/controllers/PembayaranController.php on line 6
+[31-Mar-2014 11:29:34 Asia/Jakarta] PHP Fatal error:  Undefined class constant 'REK_AKTIF' in /home/jayagros/public_html/dev/protected/controllers/PembayaranController.php on line 6
+[31-Mar-2014 11:29:45 Asia/Jakarta] PHP Fatal error:  Undefined class constant 'REK_AKTIF' in /home/jayagros/public_html/dev/protected/models/Rekening.php on line 111
+[31-Mar-2014 11:31:35 Asia/Jakarta] PHP Fatal error:  Call to undefined method MyFormatter::formatLinkProduk() in /home/jayagros/public_html/dev/protected/views/katalog/barang.php on line 5
+[31-Mar-2014 11:51:21 Asia/Jakarta] PHP Fatal error:  Undefined class constant 'EKSP_LATER' in /home/jayagros/public_html/dev/protected/models/Order.php on line 168
+[31-Mar-2014 12:26:45 Asia/Jakarta] PHP Fatal error:  Undefined class constant 'REK_AKTIF' in /home/jayagros/public_html/dev/protected/models/Rekening.php on line 111
+[31-Mar-2014 12:27:15 Asia/Jakarta] PHP Fatal error:  Undefined class constant 'REK_AKTIF' in /home/jayagros/public_html/dev/protected/controllers/PembayaranController.php on line 6
+[31-Mar-2014 21:24:37 Asia/Jakarta] PHP Fatal error:  Call to undefined method MyFormatter::formatLinkProduk() in /home/jayagros/public_html/dev/protected/views/layouts/_katalog_item.php on line 18
+[01-Apr-2014 09:30:10 Asia/Jakarta] PHP Fatal error:  Undefined class constant 'REK_AKTIF' in /home/jayagros/public_html/dev/protected/models/Rekening.php on line 111
+[05-Apr-2014 21:20:31 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/jayagros/public_html/dev/protected/models/Satuan.php on line 132
+[07-Apr-2014 00:15:58 Asia/Jakarta] PHP Fatal error:  Undefined class constant 'REK_AKTIF' in /home/jayagros/public_html/dev/protected/models/Rekening.php on line 111
+[07-Apr-2014 00:16:03 Asia/Jakarta] PHP Fatal error:  Undefined class constant 'REK_AKTIF' in /home/jayagros/public_html/dev/protected/controllers/PembayaranController.php on line 6
+[07-Apr-2014 00:19:14 Asia/Jakarta] PHP Fatal error:  Undefined class constant 'REK_AKTIF' in /home/jayagros/public_html/dev/protected/models/Rekening.php on line 111
+[07-Apr-2014 13:46:09 Asia/Jakarta] PHP Fatal error:  Call to undefined method MyFormatter::formatLinkProduk() in /home/jayagros/public_html/dev/protected/views/layouts/_katalog_item.php on line 18
+[07-Apr-2014 23:50:43 Asia/Jakarta] PHP Fatal error:  Call to undefined method MyFormatter::formatDateTimeFormat() in /home/jayagros/public_html/dev/protected/modules/pelanggan/views/checkout/view.php on line 18
+[07-Apr-2014 23:51:06 Asia/Jakarta] PHP Fatal error:  Call to undefined method MyFormatter::formatDateTimeFormat() in /home/jayagros/public_html/dev/protected/modules/pelanggan/views/checkout/view.php on line 18

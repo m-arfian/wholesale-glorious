@@ -1,0 +1,6 @@
+<ol>
+                        <li>Dengan ini saya menyatakan bahwa data yang diisikan pada form diatas termasuk barang yang dipesan adalah benar adanya.</li>
+                        <li>Jumlah total uang yang tertera pada keranjang masih belum termasuk biaya kirim.
+                            Biaya kirim akan diberitahukan pada pelanggan melalui email, sms atau bisa dilihat di halaman <?php echo CHtml::link('ini') ?> paling lambat 2 x 24 jam setelah order.</li>
+                        <li>Pembayaran order wajib dilakukan pada jangka waktu 7 Hari sejak order dilakukan. Apabila melebihi jangka waktu yang ditentukan maka order akan dianggap <span class="error">BATAL</span>.</li>
+                    </ol>

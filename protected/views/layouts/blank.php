@@ -1,0 +1,2 @@
+<!-- Blank -->
+<?php echo $content ?>
